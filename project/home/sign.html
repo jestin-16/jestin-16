@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Sign Up</title>
+    <link rel="stylesheet" href="sign.css" />
+  </head>
+  <body>
+    <h2>Sign Up</h2>
+    <div>
+      <form
+        action="signin.php"
+        method="POST"
+        id="sign-form"
+        onsubmit="return validate()"
+      >
+        <div>
+          <label for="cname">Name:</label>
+          <input type="text" name="cname" id="cname" />
+        </div>
+        <div>
+          <label for="cphone">Phone:</label>
+          <input type="text" maxlength="10" id="cphone" name="cphone" />
+        </div>
+        <div>
+          <label for="cpass">Password:</label>
+          <input type="password" id="cpass" name="cpass" />
+        </div>
+        <div>
+          <label for="conpass">Confirm Password:</label>
+          <input type="password" id="conpass" name="conpass" />
+        </div>
+
+        <input
+          type="checkbox"
+          id="togglePassword"
+          onclick="togglePasswordVisibility()"
+        />
+        <label for="togglePassword">Show Password</label>
+
+        <div>
+          <p id="errors"></p>
+        </div>
+        <div>
+          <input type="submit" value="Sign Up" />
+        </div>
+      </form>
+      <p>
+        Already have an account? <a href="login.php"><u>Login now</u></a>
+      </p>
+    </div>
+    <script>
+      function validate() {
+        let name = document.getElementById("cname");
+        let phone = document.getElementById("cphone");
+        let error = document.getElementById("errors");
+        let password = document.getElementById("cpass");
+        let confirmPassword = document.getElementById("conpass");
+
+        let namePattern = /^[a-zA-Z\s]{6,}$/;
+        let phonePattern = /^\d{10}$/;
+        let passPattern = /^(?=.[A-Za-z])(?=.\d)[A-Za-z\d]{8,}$/;
+
+        error.innerHTML = "";
+
+        if (name.value === "") {
+          error.innerHTML += "Name should not be null <br>";
+          return false;
+        }
+        if (!namePattern.test(name.value)) {
+          error.innerHTML +=
+            "Name must be a minimum of 6 characters and contain only letters <br>";
+          return false;
+        }
+
+        if (phone.value === "") {
+          error.innerHTML += "Phone number should not be null <br>";
+          return false;
+        }
+        if (!phonePattern.test(phone.value)) {
+          error.innerHTML += "Phone number not valid <br>";
+          return false;
+        }
+
+        if (password.value === "") {
+          error.innerHTML += "Password should not be null <br>";
+          return false;
+        }
+        if (!passPattern.test(password.value)) {
+          error.innerHTML +=
+            "Password must be at least 8 characters long and include at least one letter and one number <br>";
+          return false;
+        }
+
+        if (confirmPassword.value === "") {
+          error.innerHTML += "Confirm password should not be null <br>";
+          return false;
+        }
+        if (password.value !== confirmPassword.value) {
+          error.innerHTML += "Passwords do not match <br>";
+          return false;
+        }
+
+        return true;
+      }
+
+      document.getElementById("cname").addEventListener("input", function () {
+        document.getElementById("errors").innerHTML = "";
+      });
+      document.getElementById("cphone").addEventListener("input", function () {
+        document.getElementById("errors").innerHTML = "";
+      });
+      document.getElementById("cpass").addEventListener("input", function () {
+        document.getElementById("errors").innerHTML = "";
+      });
+      document.getElementById("conpass").addEventListener("input", function () {
+        document.getElementById("errors").innerHTML = "";
+      });
+
+      function togglePasswordVisibility() {
+        let password = document.getElementById("cpass");
+        let confirmPassword = document.getElementById("conpass");
+        if (password.type === "password") {
+          password.type = "text";
+          confirmPassword.type = "text";
+        } else {
+          password.type = "password";
+          confirmPassword.type = "password";
+        }
+      }
+    </script>
+  </body>
+</html>

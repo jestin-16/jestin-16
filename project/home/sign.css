@@ -1,0 +1,82 @@
+/* General styles */
+body {
+  background-color: rgba(235, 235, 235, 1);
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  line-height: 1.6;
+  color: #333;
+}
+
+/* Form container */
+div {
+  max-width: 400px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Headings */
+h2 {
+  text-align: center;
+  color: #161616;
+}
+
+/* Form labels and inputs */
+label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: bold;
+  color: #0d0d0d;
+}
+
+input[type="text"],
+input[type="number"],
+input[type="password"] {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+/* Error message */
+#errors {
+  color: red;
+  text-align: center;
+}
+
+/* Submit button */
+input[type="submit"] {
+  background-color: black;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  padding: 10px 15px;
+  cursor: pointer;
+  width: 100%;
+}
+
+input[type="submit"]:hover {
+  background-color: #333;
+}
+
+input[type="submit"]:active {
+  -webkit-box-shadow: 1px 1px 13px #20232e, -1px -1px 33px #545b78;
+  box-shadow: 1px 1px 13px #20232e, -1px -1px 33px #545b78;
+  color: #d6d6d6;
+  -webkit-transition: 100ms;
+  transition: 100ms;
+}
+
+/* Link to login page */
+p a {
+  color: #0d0d0d;
+  text-decoration: none;
+}
+
+p a:hover {
+  text-shadow: 2px 2px 5px black;
+}
