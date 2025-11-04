@@ -27,17 +27,8 @@ I primarily work with and enjoy building solutions using:
 ### 🌐 Let's Connect
 Feel free to explore my repositories or connect with me via:
 
-[Email](mailto:YOUR_EMAIL_ADDRESS)
+[Email](mailto:jestinshaji777@gmail.com)
 
 ---
 
-### GitHub Activity
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jestin-16&show_icons=true&theme=default&hide_border=true&count_private=true&line_height=25" alt="Jestin's GitHub Stats" />
-</div>
 
-<br>
-
-<div align="center">
-    Made with ❤️ and Markdown.
-</div>
