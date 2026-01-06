@@ -1,34 +1,70 @@
 <div align="center">
 
-# Jestin
-### Passionate Developer | Bringing Ideas to Life
+# ✨ Jestin Shaji ✨  
+### Backend Developer • Java • Spring Boot • Microservices  
+
+🌱 *Turning ideas into scalable, real-world software*  
 
 </div>
 
 ---
 
-### 🛠️ Core Technologies
-I primarily work with and enjoy building solutions using:
+## 🌸 About Me
 
--   **Backend:** Java, Python, PHP
--   **Frontend:** JavaScript, React, TailwindCSS
--   **Database:** SQL
+Hi! 👋  
+I'm **Jestin**, an **MCA student & backend-focused developer** who loves building clean, scalable, and meaningful applications.  
+I enjoy working with **Java, Spring Boot, Microservices, and Cloud technologies**, and I’m always curious about how **AI can enhance real-world systems**.
 
----
-
-### 💡 What I'm Up To
--   🔭 **Currently:** Focused on building robust, scalable web applications.
--   🌱 **Learning:** Always diving deeper into system design and performance optimization.
--   ⚡ **Fun Fact:** I'm a quick study and love tackling new challenges.
--   💻 **My Vibe:** Professional, solution-oriented, and casual.
+💙 I believe in **learning by building**, improving step by step, and keeping code simple yet powerful.
 
 ---
 
-### 🌐 Let's Connect
-Feel free to explore my repositories or connect with me via:
+## 🧸 Tech Stack I Love
 
-[Email](mailto:jestinshaji777@gmail.com)
+### 🛠 Backend
+- ☕ **Java**
+- 🌱 **Spring Boot**
+- 🐍 **Python**
+- 🐘 **PHP**
+
+### 🎨 Frontend
+- ⚡ **JavaScript**
+- ⚛️ **React**
+- 🎀 **Tailwind CSS**
+
+### 🗄 Database
+- 🧾 **SQL / MySQL**
 
 ---
 
+## 🌼 What I'm Currently Doing
 
+- 🔭 **Building:** Scalable backend systems & APIs  
+- 🌱 **Learning:** System Design, Microservices, Cloud & Performance  
+- 🤖 **Exploring:** AI integration with backend workflows  
+- ⚡ **Fun fact:** I adapt quickly and enjoy solving challenging problems  
+
+---
+
+## 💻 My Developer Vibe
+
+✨ Clean code  
+✨ Practical solutions  
+✨ Calm & focused  
+✨ Always improving  
+
+---
+
+## 🌐 Let’s Connect
+
+💌 **Email:** [jestinshaji777@gmail.com](mailto:jestinshaji777@gmail.com)  
+💼 **LinkedIn:** *Feel free to connect!*  
+📁 **GitHub:** Explore my repositories below 👇  
+
+---
+
+<div align="center">
+
+🌟 *Thanks for visiting my profile — happy coding!* 🌟  
+
+</div>
