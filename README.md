@@ -1,67 +1,109 @@
-<div align="center">
+<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-# ⚡ JESTIN SHAJI ⚡
-### **BACKEND ENGINEER | JAVA | SPRING BOOT | MICROSERVICES**
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>Jestin Shaji</strong>
+</h1>
 
-`System Design` • `Scalability` • `Cloud Native`
+<h3>MCA Student | Software Developer | Java • Python • Web</h3>
 
-[![](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_URL)
-[![](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jestinshaji777@gmail.com)
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
----
+  <p>
+    I'm a passionate MCA student and aspiring software developer from Kerala, India.  
+    I enjoy building practical tech solutions, learning new technologies, and working on real-world projects in software development and databases.
+  </p>
 
+  <p>
+    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🎓_MCA_Student-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/💻_Open_to_Internships-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge" />
+  </p>
+
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
+  </a>
+
+  <a href="https://instagram.com/">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
+
+  <img src="https://komarev.com/ghpvc/?username=JestinShaji&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
-## 🛠 THE ARCHITECTURE (About Me)
-
-I am an **MCA student** and **Backend Specialist** focused on building the robust "engines" that power modern applications. I thrive in the logic of the server-side, optimizing performance, and orchestrating microservices.
-
-* **Current Focus:** Mastering high-concurrency systems and Cloud architecture.
-* **Philosophy:** "Code is for humans to read, and machines to execute only incidentally."
+<br clear="all" />
 
 ---
 
-## 🏗 TECH STACK
+## 🛠️ Skills
 
-### 🖥 CORE BACKEND
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="SpringBoot" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-</p>
-
-### 🌐 FRONTEND & TOOLS
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
-  <img src="https://img.shields.io/badge/React-202327?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-</p>
-
----
-
-## 📡 CURRENT TRANSMISSION
-
-- 🔭 **Project:** Developing distributed systems using Spring Cloud.
-- 📚 **Study:** Deep diving into System Design patterns and Kubernetes.
-- 🤖 **Exploration:** Leveraging AI to automate API documentation and unit testing.
-- 💬 **Ask Me About:** Why I prefer Java for enterprise-grade solutions.
-
----
-
-## 📈 GITHUB METRICS
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jestin-16&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Jestin's Stats" />
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>📚 Frameworks & Technologies</h3>
+
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+<h3>🗄️ Databases</h3>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+<h3>🧰 Tools & Platforms</h3>
+
+<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,androidstudio" />
+</td>
+</tr>
+</table>
 </p>
 
 ---
 
+## 📊 GitHub Stats
+
 <div align="center">
-
-### **"Simplicity is the soul of efficiency."**
-*Let's build something that lasts.*
-
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
 </div>
+
+---
+
+## 📌 Projects
+
+- 🎯 **Event Management System** – Full-stack academic project for managing events and clients  
+- 🧪 **Lab Management Database** – System allocation & device tracking for 46 lab systems  
+- 📊 **Student Attendance Automation** – Barcode-based attendance with system mapping  
+
+---
+
+## ❤️ Support / Connect
+
+<p align="center">
+  ⭐ If you like my work, consider following me on GitHub!
+</p>
