@@ -5,7 +5,7 @@
   Hi, I'm <strong>Jestin Shaji</strong>
 </h1>
 
-<h3>MCA Student | Software Developer | Java • Python • Web</h3>
+<h3>MCA Student | Software Developer | Java • Microservices• Web</h3>
 
 <div align="left">
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
