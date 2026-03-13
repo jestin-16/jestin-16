@@ -99,12 +99,13 @@
 
 - 🎯 **Event Management System** – Full-stack academic project for managing events and clients  
 - 🧪 **Lab Management Database** – System allocation & device tracking for 46 lab systems  
-- 📊 **Student Attendance Automation** – Barcode-based attendance with system mapping  
+- 📊 **Student Attendance Automation** – Barcode-based attendance with system mapping
+ 
 
 ---
 
 ## ❤️ Support / Connect
 
 <p align="center">
-  ⭐ If you like my work, consider following me on GitHub!
+  ⭐ If you like my work, consider following me on GitHub!!
 </p>
