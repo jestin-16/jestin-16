@@ -1,111 +1,126 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
+<div align="center">
 
+<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" />
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Jestin Shaji</strong>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Jestin+Shaji+%F0%9F%91%8B;MCA+Student+%7C+Software+Developer;Java+%E2%80%A2+Microservices+%E2%80%A2+Full+Stack;Open+to+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
 
-<h3>MCA Student | Software Developer | Java • Microservices•</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-
-  <p>
-    I'm a passionate MCA student and aspiring software developer from Kerala, India.  
-    I enjoy building practical tech solutions, learning new technologies, and working on real-world projects in software development and databases.
-  </p>
-
-  <p>
-    <img src="https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🎓_MCA_Student-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/💻_Open_to_Internships-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-  
-<p align="left">
-  <a href="https://github.com/">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-
-  <a href="https://www.instagram.com/i.jestin_/">
-    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
-  </a>
-</p>
-
-  <img src="https://komarev.com/ghpvc/?username=JestinShaji&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
-
-<br clear="all" />
 
 ---
 
-## 🛠️ Skills
+## 🧑‍💻 About Me
 
-<p align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
+<td valign="top" width="60%">
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css" />
-<br/><br/>
+<br/>
 
-</td>
+I'm **Jestin Shaji**, an MCA student from the beautiful state of **Kerala, India** 🌿 — passionate about building practical, clean, and scalable software solutions.
 
-<td width="50%" align="center">
-<h3>📚 Frameworks & Technologies</h3>
+I thrive at the intersection of backend systems and full-stack development, with a strong focus on **Java**, **Microservices**, and **modern web technologies**. Whether it's designing a REST API or crafting a polished frontend, I bring intent and care to every line of code.
 
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap" />
-</td>
-</tr>
+Currently exploring exciting opportunities — **open to internships** where I can contribute, learn, and grow alongside passionate teams 🚀
 
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase" />
-<br/><br/>
+<br/>
 
 </td>
+<td valign="top" width="40%" align="center">
 
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
+<img src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" width="300" />
 
-<img src="https://skillicons.dev/icons?i=git,vscode,postman,figma,androidstudio" />
 </td>
 </tr>
 </table>
-</p>
+
+<br/>
+
+<div align="center">
+
+![Kerala](https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge&logoColor=white)
+![MCA](https://img.shields.io/badge/🎓_MCA_Student-1e1e2e?style=for-the-badge&logoColor=white)
+![Internships](https://img.shields.io/badge/💻_Open_to_Internships-1e1e2e?style=for-the-badge&logoColor=white)
+![Engineer](https://img.shields.io/badge/🚀_Aspiring_Software_Engineer-1e1e2e?style=for-the-badge&logoColor=white)
+
+</div>
+
+---
+
+## 🛠️ Skills & Technologies
+
+<div align="center">
+
+### 💻 Languages
+[![Languages](https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark)](https://skillicons.dev)
+
+### 📦 Frameworks
+[![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap&theme=dark)](https://skillicons.dev)
+
+### 🗄️ Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark)](https://skillicons.dev)
+
+### 🧰 Tools
+[![Tools](https://skillicons.dev/icons?i=git,vscode,postman,figma,androidstudio&theme=dark)](https://skillicons.dev)
+
+</div>
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=true" alt="Streak" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=JestinShaji&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF" height="165" />
+<img src="https://streak-stats.demolab.com?user=JestinShaji&theme=dark&hide_border=true&background=0d1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JestinShaji&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58A6FF" height="165" />
+
 </div>
 
 ---
 
-## 📌 Projects
+## 🚀 Projects
 
-- 🎯 **Event Management System** – Full-stack academic project for managing events and clients  
-- 🧪 **Lab Management Database** – System allocation & device tracking for 46 lab systems  
-- 📊 **Student Attendance Automation** – Barcode-based attendance with system mapping
- 
+<details>
+<summary><b>🎯 Event Management System</b></summary>
+<br/>
+A full-stack application for organizing and managing events — handling registrations, scheduling, and participant tracking with a clean and intuitive interface.
+<br/><br/>
+</details>
+
+<details>
+<summary><b>🧪 Lab Management Database</b></summary>
+<br/>
+A relational database system designed to streamline lab resource allocation, equipment tracking, and usage scheduling for academic institutions.
+<br/><br/>
+</details>
+
+<details>
+<summary><b>📊 Student Attendance Automation</b></summary>
+<br/>
+A barcode-based attendance system that automates the process of recording and reporting student attendance — reducing manual effort and improving accuracy.
+<br/><br/>
+</details>
 
 ---
 
-## ❤️ Support / Connect
+## 🌐 Let's Connect
 
-<p align="center">
-  ⭐ If you like my work, consider following me on GitHub!!
-</p>
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-jestin-16-1e1e2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jestin-16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Jestin_Shaji-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/JestinShaji)
+[![Instagram](https://img.shields.io/badge/Instagram-i.jestin__-e1306c?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/i.jestin_/)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/JestinShaji/JestinShaji/output/snake.svg" alt="GitHub contribution snake" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=JestinShaji&color=58a6ff&style=flat-square&label=Profile+Views)
+
+</div>
