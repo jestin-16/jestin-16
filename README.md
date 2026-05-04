@@ -33,8 +33,6 @@ Currently exploring exciting opportunities — **open to internships** where I c
 </tr>
 </table>
 
-<br/>
-
 <div align="center">
 
 ![Kerala](https://img.shields.io/badge/🌍_Kerala,_India-1e1e2e?style=for-the-badge&logoColor=white)
@@ -48,50 +46,222 @@ Currently exploring exciting opportunities — **open to internships** where I c
 
 ## 🛠️ Skills & Technologies
 
+<!-- SKILLS MARQUEE -->
 <div align="center">
+
+<!--
+  Animated skills marquee — paste the HTML below into your GitHub Pages / portfolio site.
+  GitHub README does not support CSS animations, so static icon rows are shown here as fallback.
+  For the full animated version, see: skills-marquee.html
+-->
 
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java" style="margin:6px; animation: pulse 2s infinite;" />
-  <img src="https://skillicons.dev/icons?i=python&theme=dark" width="48" height="48" alt="Python" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=c&theme=dark" width="48" height="48" alt="C" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
 </p>
 
 ### 📦 Frameworks & Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=bootstrap&theme=dark" width="48" height="48" alt="Bootstrap" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,spring&theme=dark" />
 </p>
 
 ### 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql&theme=dark" width="48" height="48" alt="MySQL" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=firebase&theme=dark" width="48" height="48" alt="Firebase" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
 </p>
 
 ### 🧰 Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=postman&theme=dark" width="48" height="48" alt="Postman" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=figma&theme=dark" width="48" height="48" alt="Figma" style="margin:6px;" />
-  <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" width="48" height="48" alt="Android Studio" style="margin:6px;" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio&theme=dark" />
 </p>
 
 </div>
+
+<!-- ANIMATED MARQUEE (works in GitHub Pages / portfolio sites) -->
+<details>
+<summary><b>✨ View Animated Skills Marquee</b></summary>
+<br/>
+
+> **Note:** GitHub's README renderer strips CSS animations. Copy the HTML below into your portfolio site or GitHub Pages for the full animated experience.
+
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<style>
+  body {
+    font-family: sans-serif;
+    background: #0d1117;
+    color: #c9d1d9;
+    padding: 2rem;
+  }
+  .section { margin-bottom: 1.5rem; }
+  .section-label {
+    font-size: 12px;
+    font-weight: 500;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: #8b949e;
+    margin-bottom: 10px;
+    padding-left: 4px;
+  }
+  .track-wrap {
+    overflow: hidden;
+    position: relative;
+  }
+  .track-wrap::before,
+  .track-wrap::after {
+    content: '';
+    position: absolute;
+    top: 0; bottom: 0;
+    width: 48px;
+    z-index: 2;
+    pointer-events: none;
+  }
+  .track-wrap::before {
+    left: 0;
+    background: linear-gradient(to right, #0d1117, transparent);
+  }
+  .track-wrap::after {
+    right: 0;
+    background: linear-gradient(to left, #0d1117, transparent);
+  }
+  .track {
+    display: flex;
+    gap: 10px;
+    width: max-content;
+  }
+  .track.slow { animation: scroll 32s linear infinite; }
+  .track.med  { animation: scroll 24s linear infinite; }
+  .track.fast { animation: scroll 20s linear infinite; }
+  .track:hover { animation-play-state: paused; }
+  @keyframes scroll {
+    0%   { transform: translateX(0); }
+    100% { transform: translateX(-50%); }
+  }
+  .pill {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 7px 14px;
+    border-radius: 999px;
+    border: 0.5px solid #30363d;
+    background: #161b22;
+    font-size: 13px;
+    font-weight: 500;
+    color: #c9d1d9;
+    white-space: nowrap;
+    cursor: default;
+    transition: border-color 0.2s, background 0.2s;
+  }
+  .pill:hover {
+    background: #1f2937;
+    border-color: #58a6ff;
+  }
+  .pill img {
+    width: 20px;
+    height: 20px;
+    object-fit: contain;
+    flex-shrink: 0;
+  }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .dot-java     { background: #e76f00; }
+  .dot-py       { background: #3776AB; }
+  .dot-c        { background: #a8b9cc; }
+  .dot-js       { background: #f7df1e; border: 0.5px solid #555; }
+  .dot-html     { background: #e34c26; }
+  .dot-css      { background: #264de4; }
+  .dot-react    { background: #61DAFB; border: 0.5px solid #555; }
+  .dot-node     { background: #339933; }
+  .dot-express  { background: #888; }
+  .dot-django   { background: #092e20; }
+  .dot-boot     { background: #7952B3; }
+  .dot-spring   { background: #6db33f; }
+  .dot-mysql    { background: #4479A1; }
+  .dot-mongo    { background: #47A248; }
+  .dot-firebase { background: #FFCA28; border: 0.5px solid #555; }
+  .dot-git      { background: #F05032; }
+  .dot-github   { background: #aaa; }
+  .dot-vscode   { background: #007ACC; }
+  .dot-postman  { background: #FF6C37; }
+  .dot-figma    { background: #A259FF; }
+  .dot-android  { background: #3DDC84; }
+</style>
+</head>
+<body>
+<div style="padding:1rem 0">
+  <div class="section">
+    <div class="section-label">Languages</div>
+    <div class="track-wrap"><div class="track slow" id="lang"></div></div>
+  </div>
+  <div class="section">
+    <div class="section-label">Frameworks &amp; Libraries</div>
+    <div class="track-wrap"><div class="track med" id="fw"></div></div>
+  </div>
+  <div class="section">
+    <div class="section-label">Databases</div>
+    <div class="track-wrap"><div class="track fast" id="db"></div></div>
+  </div>
+  <div class="section">
+    <div class="section-label">Tools &amp; Platforms</div>
+    <div class="track-wrap"><div class="track med" id="tools"></div></div>
+  </div>
+</div>
+<script>
+const data = {
+  lang: [
+    { name: 'Java',       dot: 'dot-java',   icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg' },
+    { name: 'Python',     dot: 'dot-py',     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg' },
+    { name: 'C',          dot: 'dot-c',      icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg' },
+    { name: 'JavaScript', dot: 'dot-js',     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg' },
+    { name: 'HTML',       dot: 'dot-html',   icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg' },
+    { name: 'CSS',        dot: 'dot-css',    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg' },
+  ],
+  fw: [
+    { name: 'React',     dot: 'dot-react',   icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg' },
+    { name: 'Node.js',   dot: 'dot-node',    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg' },
+    { name: 'Express',   dot: 'dot-express', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg' },
+    { name: 'Django',    dot: 'dot-django',  icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg' },
+    { name: 'Bootstrap', dot: 'dot-boot',    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg' },
+    { name: 'Spring',    dot: 'dot-spring',  icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg' },
+  ],
+  db: [
+    { name: 'MySQL',    dot: 'dot-mysql',    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' },
+    { name: 'MongoDB',  dot: 'dot-mongo',    icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg' },
+    { name: 'Firebase', dot: 'dot-firebase', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' },
+  ],
+  tools: [
+    { name: 'Git',            dot: 'dot-git',     icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' },
+    { name: 'GitHub',         dot: 'dot-github',  icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' },
+    { name: 'VS Code',        dot: 'dot-vscode',  icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg' },
+    { name: 'Postman',        dot: 'dot-postman', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg' },
+    { name: 'Figma',          dot: 'dot-figma',   icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' },
+    { name: 'Android Studio', dot: 'dot-android', icon: 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg' },
+  ]
+};
+function buildTrack(id, items) {
+  const el = document.getElementById(id);
+  const doubled = [...items, ...items, ...items, ...items];
+  el.innerHTML = doubled.map(s =>
+    `<span class="pill">
+      <img src="${s.icon}" alt="${s.name}" onerror="this.style.display='none';this.nextSibling.style.display='inline-block'">
+      <span class="dot ${s.dot}" style="display:none"></span>
+      ${s.name}
+    </span>`
+  ).join('');
+}
+Object.entries(data).forEach(([k, v]) => buildTrack(k, v));
+</script>
+</body>
+</html>
+```
+
+</details>
 
 ---
 
