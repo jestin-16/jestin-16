@@ -75,47 +75,61 @@ Working On:
 
 ---
 
-# 🛠️ Tech Stack
+
+# 🛠️ Tech Stack & Digital Arsenal
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Tech+Stack+%26+Tools;Always+Learning+New+Technologies" />
+<!-- Dynamic Heading -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=System+Architect;Backend+Specialist;Always+Learning+New+Tech" />
 
 ---
 
-## 💻 Languages
+## 💻 Languages & Logic
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" />
+  </a>
+</p>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,js,html,css&theme=dark" />
-
-<br><br>
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Languages&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=java,Java,ED8B00;python,Python,3776AB;javascript,JavaScript,F7DF1E;&line2=html5,HTML5,E34F26;css3,CSS3,1572B6;c,C,C8C8C8;" />
-
----
-
-## 🚀 Frameworks & Libraries
-
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,django,bootstrap,spring&theme=dark" />
-
-<br><br>
-
-<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Frameworks&align=center&titleAlign=center&lineCount=2&theme=tokyonight&line1=react,React,61DAFB;django,Django,092E20;spring,Spring,6DB33F;&line2=node.js,NodeJS,339933;bootstrap,Bootstrap,7952B3;express,Express,FFFFFF;" />
+<!-- 3D Language Stats Card -->
+<img src="https://github-readme-tech-stack.vercel.app/api/cards?title=Core+Languages&align=center&titleAlign=center&lineCount=1&theme=tokyonight&line1=java,Java,ED8B00;javascript,JavaScript,F7DF1E;python,Python,3776AB;c,C,A8B9CC;" />
 
 ---
 
-## 🗄️ Databases
+## ⚙️ Backend & Systems Architecture
+<p align="center">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase&theme=dark" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django&theme=dark" />
+</p>
 
 ---
 
-## 🧰 Tools & Platforms
+## 🌐 Frontend & Design
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,androidstudio&theme=dark" />
+---
+
+## 🗄️ Infrastructure & Database
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,git,postman&theme=dark" />
+</p>
+
+<!-- Animated Workflows -->
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stack-overflow?username=jestin-16&theme=tokyonight" width="450" />
+</p>
 
 </div>
 
----
+
 
 # 📊 GitHub Stats
 
