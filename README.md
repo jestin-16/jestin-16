@@ -272,16 +272,24 @@ A barcode-based attendance automation system designed to reduce manual effort an
 
 ---
 
+
+---
+
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=120&section=footer&text=Thanks+for+Visiting!&fontSize=22&fontColor=ffffff&animation=fadeIn" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=58A6FF&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
-<br><br>
+### 🚀 Let's Build Something Amazing Together
 
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120"/>
+⭐ Star repositories you find useful
 
-<br>
+🍴 Contribute to open source
 
-### ⭐ From [Jestin Shaji](https://github.com/jestin-16)
+🤝 Open for collaboration & internships
+
+📫 Reach me anytime
+
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!;See+You+Again+👋;Happy+Coding+🚀"/>
 
 </div>
