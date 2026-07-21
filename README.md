@@ -32,11 +32,11 @@ I'm an MCA student passionate about building practical, scalable, and user-focus
 
 I enjoy working on:
 
-- ⚙️ Backend Systems  
-- 🌐 Full Stack Development  
-- ☕ Java & Spring Ecosystem  
-- 🔗 REST APIs & Microservices  
-- 📱 Modern Web Technologies  
+- ⚙️ Backend Systems  
+- 🌐 Full Stack Development  
+- ☕ Java & Spring Ecosystem  
+- 🔗 REST APIs & Microservices  
+- 📱 Modern Web Technologies  
 
 I love transforming ideas into real-world applications with clean architecture and thoughtful design.
 
@@ -48,15 +48,15 @@ Currently exploring internship opportunities where I can learn, contribute, and 
 
 ```yaml
 Learning:
-  - Spring Boot
-  - Microservices
-  - Cloud Deployment
-  - Advanced Backend Development
+  - Spring Boot
+  - Microservices
+  - Cloud Deployment
+  - Advanced Backend Development
 
 Working On:
-  - Healthcare Web Platform
-  - Event Management System
-  - Attendance Automation
+  - Healthcare Web Platform
+  - Event Management System
+  - Attendance Automation
 ```
 
 </td>
@@ -87,9 +87,9 @@ Working On:
 
 ## 💻 Languages & Logic
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" />
-  </a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=java,js,python,c,html,css&theme=dark" />
+  </a>
 </p>
 
 <!-- 3D Language Stats Card -->
@@ -99,32 +99,32 @@ Working On:
 
 ## ⚙️ Backend & Systems Architecture
 <p align="center">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
-  <img src="https://img.shields.io/badge/Microservices-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microservices-58A6FF?style=for-the-badge&logo=icloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,express,django&theme=dark" />
 </p>
 
 ---
 
 ## 🌐 Frontend & Design
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap,figma&theme=dark" />
 </p>
 
 ---
 
 ## 🗄️ Infrastructure & Database
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,git,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase,docker,git,postman&theme=dark" />
 </p>
 
 <!-- Animated Workflows -->
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stack-overflow?username=jestin-16&theme=tokyonight" width="450" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stack-overflow?username=jestin-16&theme=tokyonight" width="450" />
 </p>
 
 </div>
