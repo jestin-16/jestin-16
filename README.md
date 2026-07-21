@@ -228,7 +228,7 @@ A barcode-based attendance automation system designed to reduce manual effort an
 
 <div align="center">
 
-[![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=31xxxxxxxxxxxxxxxxxxxx&cover_image=true&theme=novatorem&show_offline=false&background_color=0d1117&interchange=false&bar_color=58A6FF&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![Spotify Profile Card](https://spotify-github-profile.kittinanx.com/api/view?uid=31bsl4r6lkn5k6ux5kmlpuxt6lga&cover_image=true&theme=novatorem&show_offline=true&background_color=0d1117&interchange=false&bar_color=58A6FF&bar_color_cover=false)](https://open.spotify.com/user/31bsl4r6lkn5k6ux5kmlpuxt6lga)
 
 </div>
 
