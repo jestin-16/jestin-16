@@ -213,13 +213,7 @@ A barcode-based attendance automation system designed to reduce manual effort an
 
 ---
 
-# 📈 Contribution Graph
 
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jestin-16&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
 
 ---
 
