@@ -171,10 +171,9 @@ Working On:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=jestin-16&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy-alpha.vercel.app/?username=jestin-16&theme=tokyonight&no-frame=true&column=6&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
-
 ---
 
 # 🚀 Featured Projects
