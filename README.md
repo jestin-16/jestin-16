@@ -1,9 +1,13 @@
+
+
+
+
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,100:58A6FF&section=header&text=Jestin%20Shaji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%" alt="Jestin Shaji banner" />
 
-<img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Animated banner" />
+<!-- <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Animated banner" /> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=24&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi+%F0%9F%91%8B,+I%27m+Jestin+Shaji;Java+%E2%80%A2+Microservices+%E2%80%A2+Full+Stack;Building+Clean+%26+Scalable+Applications;Open+to+Internships+%F0%9F%9A%80" alt="Typing animation" />
 
@@ -236,6 +240,10 @@ A barcode-based attendance automation system designed to reduce manual effort an
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Thanks+for+Visiting!;See+You+Again+%F0%9F%91%8B;Happy+Coding+%F0%9F%9A%80" alt="Thanks for visiting" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:58A6FF,100:0d1117&section=footer&text=Happy%20Coding!&fontSize=40&fontColor=ffffff&animation=fadeIn" width="100%" alt="Footer banner" />
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph.svg">
+</picture>
 
 </div>
