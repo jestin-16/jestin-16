@@ -5,6 +5,8 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
 <div align="center">
 
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:0d1117,100:58A6FF&section=header&text=Jestin%20Shaji&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=MCA%20Student%20%7C%20Software%20Developer&descAlignY=58&descSize=20" width="100%" alt="Jestin Shaji banner" />
 
 <!-- <img src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif" width="100%" alt="Animated banner" /> -->
@@ -19,7 +21,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Internships-3fb950?style=for-the-badge" alt="Open to internships" />
 
 </div>
-
+<img src="assets/brain.gif"/>
 <!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
 ## 🧑‍💻 About Me
 
