@@ -19,9 +19,9 @@
 
 <!-- ═══════════════════════════ BRAIN GIF ═══════════════════════════ -->
 
-<div align="center">
+<!-- <div align="center">
   <img src="assets/brain.gif" width="90" alt="Animated brain representing creativity and problem solving" />
-</div>
+</div> -->
 
 ---
 
