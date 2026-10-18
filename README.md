@@ -252,24 +252,6 @@ A barcode-based attendance management system that aims to reduce manual work and
 
 ---
 
-<!-- ═══════════════════════════ MUSIC & QUOTE ═══════════════════════════ -->
-
-## 🎵 Off the Clock
-
-<div align="center">
-
-<a href="https://github.com/kittinan/spotify-github-profile">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bsl4r6lkn5k6ux5kmlpuxt6lga&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify GitHub profile" />
-</a>
-
-<br/><br/>
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
-
-</div>
-
----
-
 <!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
 
 ## 🌐 Connect With Me
@@ -291,6 +273,24 @@ A barcode-based attendance management system that aims to reduce manual work and
 <img src="https://img.shields.io/badge/Open%20Source-Love-red?style=for-the-badge" alt="Open source enthusiast" />
 <img src="https://img.shields.io/badge/Focus-Full%20Stack-blue?style=for-the-badge" alt="Full-stack focus" />
 <img src="https://img.shields.io/badge/Code-Clean-success?style=for-the-badge" alt="Clean code" />
+
+</div>
+
+---
+
+<!-- ═══════════════════════════ MUSIC & QUOTE ═══════════════════════════ -->
+
+## 🎵 Off the Clock
+
+<div align="center">
+
+<a href="https://github.com/kittinan/spotify-github-profile">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bsl4r6lkn5k6ux5kmlpuxt6lga&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&profanity=false&hide_remaster=false" alt="Spotify GitHub profile" />
+</a>
+
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random developer quote" />
 
 </div>
 
