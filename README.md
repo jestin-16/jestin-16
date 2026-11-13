@@ -16,6 +16,7 @@
 <img src="https://img.shields.io/badge/Open%20to-Internships-3fb950?style=for-the-badge" alt="Open to internships" />
 
 </div>
+<!--<div></div>-->
 
 <!-- ═══════════════════════════ BRAIN GIF ═══════════════════════════ -->
 
