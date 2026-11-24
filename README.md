@@ -11,10 +11,10 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=jestin-16&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
+<!--<img src="https://komarev.com/ghpvc/?username=jestin-16&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/jestin-16?style=for-the-badge&logo=github&color=58A6FF" alt="GitHub followers" />
 <img src="https://img.shields.io/badge/Open%20to-Internships-3fb950?style=for-the-badge" alt="Open to internships" />
-
+-->
 </div>
 <!--<div></div>-->
 
